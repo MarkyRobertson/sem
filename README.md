@@ -1,8 +1,7 @@
-![workflow](https://github.com/<MarkyRobertson>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+Hello, world, read me file here
 
-[![LICENSE](https://img.shields.io/github/license/<MarkyRobertson>/devops.svg?style=flat-square)](https://github.com/<MarkyRobertson>/devops/blob/master/LICENSE)
+[![workflow](https://github.com/MarkyRobertson/sem/actions/workflows/main.yml/badge.svg)](https://github.com/MarkyRobertson/sem/actions/workflows/main.yml)
 
-[![Releases](https://img.shields.io/github/release/<MarkyRobertson>/devops/all.svg?style=flat-square)](https://github.com/<MarkyRobertson>/devops/releases)
+[![LICENSE](https://img.shields.io/github/license/MarkyRobertson/sem.svg?style=flat-square)](https://github.com/MarkyRobertson/sem/blob/master/LICENSE)
 
-# DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/<MarkyRobertson>/<repository>/<action name taken from main.yml>/<branch>?style=flat-square)
+[![Releases](https://img.shields.io/github/release/MarkyRobertson/sem.svg?style=flat-square)](https://github.com/MarkyRobertson/sem/releases)
